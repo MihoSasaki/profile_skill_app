@@ -12,6 +12,7 @@ gem 'rails', '~> 5.1.2'
 #gem 'sqlite3'
 gem 'pg'
 #gem 'mysql2'
+gem 'bundler', '>= 1.14.6'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
